@@ -1,0 +1,10 @@
+Ê
+defaultDsubfindCreateDedicatedDsubŒLEVEL=DingoLevel_Root;LEVELNAME=levels/game/DingoLevel_Root/DingoLevel_Root;DSUB=levels/game/BAM_LevelRoot/BAM_LevelRoot;GAMEMODE=dedicated;"createDedicatedDsubÔ
+ftuefindCreateDedicatedFtue™LEVEL=DingoLevel_Root;LEVELNAME=levels/game/DingoLevel_Root/DingoLevel_Root;DSUB=levels/game/DingoLevel_FTUE_Island/DingoLevel_FTUE_Island;GAMEMODE=ftue;"createDedicatedFtueDsubˆ
+gromfindCreateDedicatedFtueComplete½LEVEL=DingoLevel_Root;LEVELNAME=levels/game/DingoLevel_Root/DingoLevel_Root;DSUB=levels/game/DingoLevel_Isle_Of_Grom/DingoLevel_Isle_Of_Grom;GAMEMODE=ftuecomplete;STARTPOINT=NoonStartPoint;"createDedicatedFtueCompleteDsub™
+
+grom_night$findCreateDedicatedFtueCompleteNight¾LEVEL=DingoLevel_Root;LEVELNAME=levels/game/DingoLevel_Root/DingoLevel_Root;DSUB=levels/game/DingoLevel_Isle_Of_Grom/DingoLevel_Isle_Of_Grom;GAMEMODE=ftuecomplete;STARTPOINT=NightStartPoint;"$createDedicatedFtueCompleteNightDsub¯
+grom_victoria,findCreateDedicatedFtueCompleteVictoriaNightÁLEVEL=DingoLevel_Root;LEVELNAME=levels/game/DingoLevel_Root/DingoLevel_Root;DSUB=levels/game/DingoLevel_Isle_Of_Grom/DingoLevel_Isle_Of_Grom;GAMEMODE=ftuecomplete;STARTPOINT=VictoriaStartPoint;",createDedicatedFtueCompleteVictoriaNightDsubÖ
+mpr!findCreateDedicatedMegaParkResortˆLEVEL=DingoLevel_Root;LEVELNAME=levels/game/DingoLevel_Root/DingoLevel_Root;DSUB=levels/game/DingoLevel_MPR/DingoLevel_MPR;GAMEMODE=mpr;"!createDedicatedMegaParkResortDsubó
+	stadium01findCreateDedicatedStadium01©LEVEL=DingoLevel_Root;LEVELNAME=levels/game/DingoLevel_Root/DingoLevel_Root;DSUB=levels/game/DingoLevel_SDM/DingoLevel_SDM_INT_001/DingoLevel_SDM_INT_001;GAMEMODE=sdm01;"createDedicatedStadium01Dsubó
+	stadium02findCreateDedicatedStadium02©LEVEL=DingoLevel_Root;LEVELNAME=levels/game/DingoLevel_Root/DingoLevel_Root;DSUB=levels/game/DingoLevel_SDM/DingoLevel_SDM_INT_002/DingoLevel_SDM_INT_002;GAMEMODE=sdm02;"createDedicatedStadium02Dsub

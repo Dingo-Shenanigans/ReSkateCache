@@ -1,0 +1,413 @@
+Ωí
+"
+
+Frame RateGraphics: Frame Rate
+
+GraphicsGraphics: General
++
+Graphics QualityGlobal Graphics Quality
+2
+Resolution ScalingGraphics: Resolution Scaling
+ 
+	UpscalingGraphics: Upscalingô
+Ambient OcclusionAmbient Occlusion QualityiSimulates soft shadows for depth in creases and corners. Higher settings increase GPU load significantly.r
+AntialiasingAnti-AliasingSReduces jagged edges for smoother visuals. Increases GPU load based on method used.%
+Audionot localizednot localized,
+Base Androidnot localizednot localized)
+	Base Gen4not localizednot localized(
+Base iOSnot localizednot localized(
+Base PS5not localizednot localized,
+Base Switch2not localizednot localized*
+
+Base Win32not localizednot localized)
+	Base XBSXnot localizednot localized-
+Character LODnot localizednot localized8
+Character Shader Profilenot localizednot localized8
+Default Settings Androidnot localizednot localized4
+Default Settings iOSnot localizednot localized4
+Default Settings PS4not localizednot localized4
+Default Settings PS5not localizednot localized8
+Default Settings Switch2not localizednot localized6
+Default Settings Win32not localizednot localized9
+Default Settings Xbox Onenot localizednot localized5
+Default Settings XBSXnot localizednot localizedÖ
+Depth of FieldDepth of Field Quality[Controls blur quality for distant objects. Higher settings increase GPU load significantly.+
+Detail Fadenot localizednot localized@
+ Dingo Scalable Render Resolutionnot localizednot localizedí
+Effects QualityVisual Effects QualitygAdjusts quality of effects like dust and splashes. Affects both GPU (rendering) and CPU (effect logic).%
+Emptynot localizednot localized)
+	Enlightennot localizednot localized*
+
+Foregroundnot localizednot localizedé
+Frame Synthesis ModeUpscaling MethoddSelects method for rendering lower resolutions at higher quality. Higher settings increase GPU load.4
+Frame Synthesis NDSRnot localizednot localizedÉ
+Frame Synthesis Quality DLSSDLSS]AI-powered upscaling for improved performance and visuals. Higher settings increase GPU load.ç
+Frame Synthesis Quality FSRFSRiUses AMD FidelityFX Super Resolution to boost quality and performance. Higher settings increase GPU load.<
+Frame Synthesis Quality PSSRnot localizednot localized=
+Frame Synthesis Quality PSSR2not localizednot localizedê
+Frame Synthesis Quality XeSSXeSSjUses Intel Xe Super Sampling for sharper visuals at lower render costs. Higher settings increase GPU load.Ö
+GI Grid"Static Global Illumination QualityVEnhances static global illumination. Affects both GPU (rendering) and CPU (streaming).Ã
+GIBSGlobal IlluminationÆControls realistic light bounces and reflections. Hardware Ray Tracing is used on compatible hardware when set to Dynamic. Demands both GPU (rendering) and CPU (light logic).6
+GIBS Light Shadow Modenot localizednot localized¬
+Global Graphics QualityGlobal Quality PresetséAdjust all visual settings at once. Affects GPU (rendering), GPU memory usage and CPU (processing). Restart required for all changes to apply.*
+
+GPU Probesnot localizednot localized(
+Graphicsnot localizednot localized/
+Graphics Mobilenot localizednot localizedm
+LightingLighting QualityOModifies in-game lighting detail and realism. Impacts GPU (shading complexity).0
+Lighting Profilenot localizednot localized9
+LoadStateProvidersLoad State Providersnot localized8
+Local Planar Reflectionsnot localizednot localized$
+LRVsnot localizednot localized+
+LRV Profilenot localizednot localizedz
+Mesh QualityMesh Quality\Controls 3D model details. Impacts GPU (rendering complexity) and CPU (geometry processing)./
+Mesh Scatteringnot localizednot localized1
+Mesh Tessellationnot localizednot localized'
+Mesh VTnot localizednot localized,
+Model Rendernot localizednot localizeds
+Model ThrottlingModel ThrottlingMLimit how many models can be created or destroyed in a given frame (Sim side)_
+Motion BlurMotion Blur Quality;Adjusts quality of motion blur effects. Increases GPU load.$
+MSAAnot localizednot localized^
+Post ProcessPost Processing=Enhances visuals with additional effects. Increases GPU load.(
+PS4 Miscnot localizednot localized(
+Raytracenot localizednot localized0
+Render Threadingnot localizednot localizedz
+
+ResolutionResolution ScaleZRenders below or above native resolution for performance. Higher values increase GPU load.Ö
+Resolution Scale EnableDynamic ResolutionVAdjusts resolution dynamically for stable performance. Balances GPU load in real-time.9
+Scalable Geometry Profilenot localizednot localizedΩ
+ScalablearchitectureGameplay DensityíControls the amount of other skaters, pedestrians, and vehicles that are simulated and rendered. Higher rates increase demand on both CPU and GPU.5
+Screen Space Raytracenot localizednot localized5
+Screen Space Shadows not localizednot localized-
+Shader Systemnot localizednot localizedt
+ShadowsShadow QualityYAdjusts shadow resolution and sharpness. Higher settings increase GPU load significantly.+
+Sky Qualitynot localizednot localized6
+Swapchain Scale Factornot localizednot localizedã
+Target FramerateTarget Render Frame Rate]Adjusts frame rate the game is rendered at. Higher rates increase demand on both GPU and CPU.7
+Target Framerate Mobilenot localizednot localizedÎ
+Target SimulationTarget Simulation RateΩAdjusts the frequency at which the game's core logic (physics, AI, object positions, etc.) is calculated. Lower rates reduce the required load on CPU. Restart required for changes to apply.'
+Terrainnot localizednot localized$
+Testnot localizednot localizedÅ
+Texture FilteringTexture FilteringYEnhances texture clarity at angles. GPU intensive. Restart required for changes to apply.á
+Texture QualityTexture QualitycAdjusts surface and object detail. Impacts GPU memory usage. Restart required for changes to apply./
+Thread Cooldownnot localizednot localized'
+Upscalenot localizednot localizedv
+VSyncV-SynceSynchronize frame flip with the display's refresh rate. Enabling may decrease demands on CPU and GPU.%
+Vistanot localizednot localized)
+	Vista Newnot localizednot localized)
+	Watermarknot localizednot localized-
+World Profilenot localizednot localized#
+WPSnot localizednot localized(
+XB1 Miscnot localizednot localized%
+ZPassnot localizednot localized/
+ambient_occlusion_advanced_aaonot localized+
+ambient_occlusion_gtao_casnot localized$
+ambient_occlusion_gtao_fullUltra#
+ambient_occlusion_gtao_halfHighD
+3ambient_occlusion_gtao_half_no_ao_fields_capsule_aonot localized<
++ambient_occlusion_gtao_half_no_checkerboardnot localizedQ
+@ambient_occlusion_gtao_half_no_checkerboard_ao_fields_capsule_aonot localized'
+ambient_occlusion_hbaonot localized&
+ambient_occlusion_offnot localized
+ambient_occlusion_ssaoLow?
+.ambient_occlusion_ssao_no_ao_fields_capsule_aonot localized*
+antialiasing_fxaa_computenot localized2
+!antialiasing_fxaa_compute_extremenot localized'
+antialiasing_fxaa_highnot localized&
+antialiasing_fxaa_lownot localized 
+antialiasing_fxaa_mediumFXAA
+antialiasing_offOff%
+antialiasing_smaa_1xnot localized!
+antialiasing_temporalTemporal
+
+audio_highnot localized
+	audio_lownot localized
+audio_mediumnot localized
+base_androidnot localized
+
+base_gen_4not localized
+	base_i_osnot localized
+base_ps5not localized
+base_switch2not localized
+
+base_win32not localized
+	base_xbsxnot localized"
+character_lod_casnot localized#
+character_lod_highnot localized+
+character_shader_profile_1not localized+
+character_shader_profile_2not localized+
+character_shader_profile_3not localized
+depth_of_field_highHigh
+depth_of_field_lowLow
+depth_of_field_mediumMedium
+depth_of_field_offOff!
+detail_fade_highnot localized 
+detail_fade_lownot localized#
+detail_fade_mediumnot localized"
+detail_fade_ultranot localized5
+$dsr_resolution_scale_dynamic_dpi_150not localized5
+$dsr_resolution_scale_dynamic_dpi_175not localized5
+$dsr_resolution_scale_dynamic_dpi_200not localized5
+$dsr_resolution_scale_dynamic_dpi_225not localized5
+$dsr_resolution_scale_dynamic_dpi_250not localized5
+$dsr_resolution_scale_dynamic_dpi_275not localized5
+$dsr_resolution_scale_dynamic_dpi_300not localized5
+$dsr_resolution_scale_dynamic_dpi_325not localized5
+$dsr_resolution_scale_dynamic_dpi_350not localized5
+$dsr_resolution_scale_dynamic_dpi_400not localized5
+$dsr_resolution_scale_dynamic_dpi_450not localized
+effects_quality_highHigh+
+effects_quality_high_ultranot localized
+effects_quality_lowLow 
+effects_quality_mediumMedium,
+effects_quality_medium_highnot localized
+effects_quality_ultraUltra
+emptynot localized%
+enlighten_long_solvenot localized!
+enlighten_mediumnot localized$
+foreground_disablednot localized2
+!frame_synthesis_mode_checkerboardnot localized!
+frame_synthesis_mode_dlssDLSS
+frame_synthesis_mode_fsrFSR*
+frame_synthesis_mode_ndsrnot localized!
+frame_synthesis_mode_noneNone*
+frame_synthesis_mode_pssrnot localized"
+frame_synthesis_mode_xe_ssXeSS1
+%frame_synthesis_quality_dlss_balancedBalanced)
+!frame_synthesis_quality_dlss_dlaaDLAA7
+(frame_synthesis_quality_dlss_performancePerformance/
+$frame_synthesis_quality_dlss_qualityQualityC
+.frame_synthesis_quality_dlss_ultra_performanceUltra Performance1
+%frame_synthesis_quality_fsr3_balancedBalanced-
+#frame_synthesis_quality_fsr3_nativeNative7
+(frame_synthesis_quality_fsr3_performancePerformance/
+$frame_synthesis_quality_fsr3_qualityQuality?
+.frame_synthesis_quality_fsr3_ultra_performancenot localized;
+*frame_synthesis_quality_fsr3_ultra_qualityUltra Quality7
+&frame_synthesis_quality_pssr2_balancednot localized5
+$frame_synthesis_quality_pssr2_nativenot localized:
+)frame_synthesis_quality_pssr2_performancenot localized6
+%frame_synthesis_quality_pssr2_qualitynot localized@
+/frame_synthesis_quality_pssr2_ultra_performancenot localized6
+%frame_synthesis_quality_pssr_balancednot localized4
+#frame_synthesis_quality_pssr_nativenot localized9
+(frame_synthesis_quality_pssr_performancenot localized5
+$frame_synthesis_quality_pssr_qualitynot localized?
+.frame_synthesis_quality_pssr_ultra_performancenot localized2
+&frame_synthesis_quality_xe_ss_balancedBalanced.
+$frame_synthesis_quality_xe_ss_nativeNative8
+)frame_synthesis_quality_xe_ss_performancePerformance0
+%frame_synthesis_quality_xe_ss_qualityQualityD
+/frame_synthesis_quality_xe_ss_ultra_performanceUltra Performance<
++frame_synthesis_quality_xe_ss_ultra_qualityUltra QualityF
+0frame_synthesis_quality_xe_ss_ultra_quality_plusUltra Quality Plus@
+/game_licensee_default_settings_platform_androidnot localized=
+,game_licensee_default_settings_platform_i_osnot localized<
++game_licensee_default_settings_platform_ps4not localized@
+/game_licensee_default_settings_platform_ps4_pronot localized<
++game_licensee_default_settings_platform_ps5not localized@
+/game_licensee_default_settings_platform_switch2not localized>
+-game_licensee_default_settings_platform_win32not localizedA
+0game_licensee_default_settings_platform_xbox_onenot localizedC
+2game_licensee_default_settings_platform_xbox_one_xnot localized=
+,game_licensee_default_settings_platform_xbssnot localized=
+,game_licensee_default_settings_platform_xbsxnot localized4
+#game_quality_settings_graphics_highnot localized3
+"game_quality_settings_graphics_lownot localized6
+%game_quality_settings_graphics_mediumnot localized:
+)game_quality_settings_graphics_mobile_lownot localized5
+$game_quality_settings_graphics_ultranot localized
+gi_grid_highHigh
+gi_grid_lowLow
+gi_grid_mediumMedium
+gi_grid_ultraUltra(
+gibs_light_shadow_mixednot localized1
+ gibs_light_shadow_shadowmap_onlynot localized
+gibs_offStatic
+gibs_onDynamic&
+gibs_on_enlighten_offnot localized
+gibs_on_ps5not localized 
+gibs_on_ps5_pronot localized$
+global_graphics_quality_highHigh"
+global_graphics_quality_lowLow(
+global_graphics_quality_mediumMedium*
+global_graphics_quality_minimumMinimum2
+#global_graphics_quality_ps5_pro_120Performance-
+"global_graphics_quality_ps5_pro_60Quality-
+"global_graphics_quality_switch2_30Quality1
+"global_graphics_quality_switch2_60Performance&
+global_graphics_quality_ultraUltra*
+gpu_probes_2x2_downsamplenot localized)
+gpu_probes_no_downsamplenot localized
+lighting_highHigh$
+lighting_high_ultranot localized
+lighting_lowLow
+lighting_mediumMedium%
+lighting_medium_highnot localized#
+lighting_profile_0not localized#
+lighting_profile_1not localized#
+lighting_profile_2not localized#
+lighting_profile_3not localized
+lighting_ultraUltra-
+load_state_providers_defaultnot localizedb
+.load_state_providers_low_quality_mesh_provider0Load State Providers - Low Quality Mesh Provider-
+local_planar_reflections_offnot localized,
+local_planar_reflections_onnot localized
+	lr_vs_lownot localized
+	lr_vs_offnot localized
+
+lrv_mediumnot localized
+lrv_profile_0not localized
+lrv_profile_1not localized
+lrv_profile_2not localized
+lrv_profile_3not localized
+mesh_quality_highHigh%
+mesh_quality_high_1_0_shadowsHigh"
+mesh_quality_high_mediumMedium
+mesh_quality_lowMinimum
+mesh_quality_mediumLow(
+mesh_quality_medium_lownot localized.
+mesh_quality_test_more_pop_innot localized9
+(mesh_quality_test_nearer_lod_transitionsnot localized
+mesh_quality_ultraUltra'
+mesh_quality_ultra_1_0not localized/
+mesh_quality_ultra_1_0_shadowsnot localized&
+mesh_quality_very_lownot localized%
+mesh_scattering_highnot localized$
+mesh_scattering_lownot localized'
+mesh_scattering_mediumnot localized&
+mesh_scattering_ultranot localized*
+mesh_tessellation_disablenot localized+
+mesh_tessellation_enable_7not localized
+mesh_vt_highnot localized
+mesh_vt_lownot localized
+mesh_vt_mediumnot localized
+mesh_vt_ultranot localized%
+model_render_defaultnot localized%
+model_render_reducednot localized(
+model_throttling_mediumnot localized&
+model_throttling_nonenot localized
+motion_blur_highHigh
+motion_blur_lowLow
+motion_blur_mediumMedium
+motion_blur_offOff
+motion_blur_ultraUltra
+msaa_offnot localized
+post_process_highHigh
+post_process_lowLow
+post_process_mediumMedium!
+post_process_offnot localized
+post_process_ultraUltra
+ps4_miscnot localized"
+ps4_pro_1080_miscnot localized!
+ps4_pro_4_k_miscnot localized
+raytrace_offnot localized
+raytrace_onnot localized+
+render_threading_4_threadsnot localized-
+resolution_scale_0_5_to_0_66not localized4
+#resolution_scale_0_5_to_0_66_30_fpsnot localized,
+resolution_scale_0_5_to_0_8not localized 
+resolution_scale_0_5_to_150%(
+!resolution_scale_0_5_to_1_120_fps50%$
+ resolution_scale_0_5_to_1_30_fps +
+resolution_scale_0_66_to_1not localized(
+!resolution_scale_0_66_to_1_30_fps60% 
+resolution_scale_0_6_to_160%%
+resolution_scale_0_7not localized 
+resolution_scale_0_7_to_170% 
+resolution_scale_0_8_to_180% 
+resolution_scale_0_9_to_190%
+resolution_scale_1100%)
+resolution_scale_max_100not localized(
+resolution_scale_max_50not localized(
+resolution_scale_max_75not localized(
+resolution_scale_max_80not localized
+resolution_scaling_offOff
+resolution_scaling_onOn#
+scalable_architecture_highUltra$
+scalable_architecture_lowMinimum&
+scalable_architecture_med_highHigh$
+scalable_architecture_med_lowLow&
+scalable_architecture_mediumMedium,
+scalable_geometry_profile_0not localized,
+scalable_geometry_profile_1not localized,
+scalable_geometry_profile_2not localized,
+scalable_geometry_profile_3not localized-
+screen_space_raytrace_enablenot localized*
+screen_space_raytrace_offnot localized)
+screen_space_shadows_offnot localized(
+screen_space_shadows_onnot localized#
+shader_system_highnot localized"
+shader_system_lownot localized%
+shader_system_mediumnot localized$
+shader_system_ultranot localized
+shadows_highHigh#
+shadows_high_minusnot localized
+shadows_lowLow
+shadows_mediumMedium$
+shadows_medium_highnot localized
+shadows_ultraUltra!
+shadows_very_lownot localized!
+sky_quality_highnot localized'
+sky_quality_high_ultranot localized 
+sky_quality_lownot localized#
+sky_quality_mediumnot localized"
+sky_quality_ultranot localized#
+swapchain_scale_60not localized#
+swapchain_scale_65not localized#
+swapchain_scale_70not localized#
+target_120_presentnot localized
+target_30_present30 FPS)
+target_30_present_mobilenot localized 
+target_30_present_tltr30 FPS
+target_30_sim30 Hz"
+target_60_presentnot localized 
+target_60_present_tltr60 FPS
+target_60_sim60 Hz#
+target_uncapped_present_tltr240 
+terrain_vt_highnot localized
+terrain_vt_lownot localized"
+terrain_vt_mediumnot localized!
+terrain_vt_ultranot localized
+testnot localized*
+texture_filtering_defaultnot localized
+texture_filtering_highHigh
+texture_filtering_lowLow"
+texture_filtering_mediumMedium 
+texture_filtering_ultraUltra
+texture_quality_highHigh
+texture_quality_lowLow 
+texture_quality_mediumMedium
+texture_quality_ultraUltra$
+thread_cooldown_offnot localized 
+upscale_lanczosnot localized
+upscale_linearnot localized&
+upscale_linear_simplenot localized
+
+v_sync_1_2	VSync 1/2
+
+v_sync_1_3	VSync 1/3
+
+v_sync_1_4	VSync 1/4
+
+v_sync_offOff
+	v_sync_onOn
+vista_new_highnot localized
+vista_new_lownot localized!
+vista_new_mediumnot localized
+vista_new_offnot localized4
+#vista_test_nearer_vista_transitionsnot localized
+watermark_offnot localized 
+world_profile_1not localized 
+world_profile_2not localized 
+world_profile_3not localized
+wps_highnot localized
+wps_lownot localized
+
+wps_mediumnot localized
+	wps_ultranot localized
+xb1_miscnot localized
+
+xb1_x_miscnot localized
+
+z_pass_offnot localized
