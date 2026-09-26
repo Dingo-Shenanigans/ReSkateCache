@@ -4,8 +4,16 @@
     {
       "id": "reskate-welcome",
       "title": "WELCOME TO RESKATE",
-      "description": "Your city. Your session.",
-      "body": "Explore San Van, build your skater, and make the session yours.\n\nYour outfits and local progress are saved between sessions.",
+      "description": "San Van is yours. Skate it your way.",
+      "body": "Welcome to ReSkate, the modding platform for skate.\n\nSkate custom maps built by the community, drop mods into your Mods folder, and jump into servers with your crew.\n\nOpen the pause menu to find everything ReSkate adds:\n- MULTIPLAYER: browse servers, host your own session, or join your friends.\n- CUSTOM STUFF: world layers, parks, time of day and more.\n- MODS: see what's installed and what each mod changes.\n\nYour skater, outfits and progress are saved between sessions.\n\nNow go find a line.",
+      "fallback_small": "UI/Textures/Features/News/img_NewsSystem_Fallback_1920",
+      "fallback_large": "UI/Textures/Features/News/img_NewsSystem_Fallback_1920"
+    },
+    {
+      "id": "what-is-reskate",
+      "title": "WHAT IS RESKATE?",
+      "description": "A modding platform for skate, built by the community.",
+      "body": "ReSkate is a modding platform for skate. It lets the community build and play custom content: new maps, models, skins and more.\n\nWHY IT EXISTS\nWe love skate, and we love what the community can create. ReSkate gives modders the tools to make their own spots, parks and creations, and a place to share them, all without touching the live game.\n\nWHAT RESKATE IS NOT\n- Not a replacement for the live game. Play the official game to support it and get the full experience.\n- Not a way to get live-game cosmetics for free. We do not unlock paid or store content, and we never will.\n- Not a way to leak or share live-game content. Unreleased or datamined content has no place here.\n\nOUR APPROACH\nWe always stay one season behind the live game. We don't want to get in the way of Full Circle or anything they have planned. New seasons, cosmetics and content belong to the live game first.\n\nWe don't support leaking content or unlocking paid cosmetics. Posts, mods or requests that do either will be removed.\n\nWHAT YOU CAN DO\n- Play custom maps made by the community.\n- Use and create custom models, skins and other original content.\n- Build your own mods and share them.\n\nReSkate is purely a way to mod skate. Make cool stuff and have fun.",
       "fallback_small": "UI/Textures/Features/News/img_NewsSystem_Fallback_1920",
       "fallback_large": "UI/Textures/Features/News/img_NewsSystem_Fallback_1920"
     }
