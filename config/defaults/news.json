@@ -1,0 +1,13 @@
+{
+  "enabled": true,
+  "posts": [
+    {
+      "id": "reskate-welcome",
+      "title": "WELCOME TO RESKATE",
+      "description": "Your city. Your session.",
+      "body": "Explore San Van, build your skater, and make the session yours.\n\nYour outfits and local progress are saved between sessions.",
+      "fallback_small": "UI/Textures/Features/News/img_NewsSystem_Fallback_1920",
+      "fallback_large": "UI/Textures/Features/News/img_NewsSystem_Fallback_1920"
+    }
+  ]
+}
