@@ -12,8 +12,8 @@
     {
       "id": "what-is-reskate",
       "title": "WHAT IS RESKATE?",
-      "description": "A modding platform for skate, built by the community.",
-      "body": "A community modding platform for skate: custom maps, models, skins and more.\n\nIt's NOT a replacement for the live game, a way to get paid cosmetics, or a place for leaks.\n\nWe stay one season behind, so new content belongs to Full Circle first.\n\nMake cool stuff and have fun.",
+      "description": "A modding platform for skate.",
+      "body": "A community modding platform for skate: custom maps, models, skins and more.\n\nIt's NOT a replacement for the live game, a way to get paid cosmetics, or a place for leaks.\n\nMake cool stuff and have fun.",
       "fallback_small": "UI/Textures/Features/News/img_NewsSystem_Fallback_1920",
       "fallback_large": "UI/Textures/Features/News/img_NewsSystem_Fallback_1920"
     }
