@@ -5,7 +5,7 @@
       "id": "reskate-welcome",
       "title": "WELCOME TO RESKATE",
       "description": "San Van is yours. Skate it your way.",
-      "body": "The modding platform for skate.\n\nSkate community maps, add mods to your Mods folder and ride with your crew.\n\nIn the pause menu:\n- MULTIPLAYER: servers and sessions\n- CUSTOM STUFF: world layers and parks\n- MODS: your installed mods\n\nNow go find a line.",
+      "body": "The modding platform for skate.\n\nSkate community maps, add mods to your Mods folder and ride with your crew.\n\nIn the pause menu:\n- MULTIPLAYER: servers and sessions\n- CUSTOM STUFF: world layers and parks\n\nNow go find a line.",
       "fallback_small": "UI/Textures/Features/News/img_NewsSystem_Fallback_1920",
       "fallback_large": "UI/Textures/Features/News/img_NewsSystem_Fallback_1920"
     },
