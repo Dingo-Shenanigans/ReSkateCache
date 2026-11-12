@@ -1,0 +1,48 @@
+# A copy of the ReSkate backend's identity lists (tags, bans, official servers, chat word lists)
+# at config/backend/steam-ids.json, which the game reads when it cannot reach api.reskate.dev.
+# Some players' Windows cannot make a secure connection to api.reskate.dev (WinHTTP error 12175)
+# while GitHub works for them. Committed only when the lists changed.
+name: Mirror identity lists
+
+on:
+  schedule:
+    - cron: "*/10 * * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: mirror-identity-lists
+  cancel-in-progress: false
+
+jobs:
+  mirror:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Fetch the lists
+        run: |
+          set -euo pipefail
+          curl --fail --silent --show-error --max-time 30 --retry 3 --retry-delay 10 \
+            --user-agent "ReSkateCache-Mirror/1" \
+            https://api.reskate.dev/api/v1/steam-ids --output "$RUNNER_TEMP/steam-ids.json"
+          # Only a whole answer replaces the copy: an error page or a cut-off body is not one.
+          jq -e '(.categories | type == "object") and (.banned | type == "array")' "$RUNNER_TEMP/steam-ids.json" > /dev/null
+          mkdir -p config/backend
+          cp "$RUNNER_TEMP/steam-ids.json" config/backend/steam-ids.json
+
+      - name: Commit when changed
+        run: |
+          set -euo pipefail
+          if [ -z "$(git status --porcelain -- config/backend/steam-ids.json)" ]; then
+            echo "No change."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add config/backend/steam-ids.json
+          git commit -m "Mirror the identity lists from api.reskate.dev"
+          git push
